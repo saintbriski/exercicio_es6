@@ -1,4 +1,4 @@
-//classe construtora (obejto)
+//classe construtora (objeto)
 class alunos {
     constructor(nomeAluno, notaAluno) {
         this.nome = nomeAluno;
